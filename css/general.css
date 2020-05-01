@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    /*100 300 900 */
+    font-weight: 100;
+    background-color: black;
+    color: white;
+
+}
+h3{
+    font-weight: 300;
+}
+h1{
+    display: inline-block;
+    color: white;
+    position: absolute;
+    text-align: center;
+    padding-left: 250px;
+    padding-top: 5px;
+    background: none;
+
+
+}
+
+canvas{
+    position: fixed;
+    border: 1px dotted white;
+    height: 750px;
+    width: 750px;
+
+}
+
+.container{
+    padding-left: 250px;
+
+}
+.datos{
+    color: white;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    padding: 5px 50px 5px 50px;
+    border: 1px solid white;
+}
+
+.datos button{
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: white;
+    color: black;
+    outline: white;
+    border: none;
+    transition: 0.5s;
+
+}
+.datos button:hover{
+    outline: 2px solid blue;
+    background-color: black;
+    color: white;
+}
