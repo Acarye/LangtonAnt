@@ -1,2 +1,2 @@
 # LangtonAnt
-https://matijarcor.github.io/LangtonAnt/
+https://maticorrea.github.io/LangtonAnt/
